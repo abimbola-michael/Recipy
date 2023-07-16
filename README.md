@@ -1,6 +1,8 @@
 # recipy
 
-A new Flutter project.
+Recipy is a recipe UI app built with Flutter
+
+https://github.com/abimbola-michael/Recipy/assets/89009174/d5b0f6a8-b057-4a5b-a119-82523e2ef5d8
 
 ## Getting Started
 
